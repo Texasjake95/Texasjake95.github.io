@@ -1,4 +1,5 @@
 require 'zurb-foundation'
+require 'zurb-foundation'
 
 Awestruct::Extensions::Pipeline.new do
   # extension Awestruct::Extensions::Posts.new '/news'
